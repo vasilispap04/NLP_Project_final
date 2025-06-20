@@ -1,0 +1,14 @@
+Παραδοτέο 1Β - Μοντέλο 3: Ramsrigouthamg T5 Paraphraser
+========================================
+
+Original Text 1:
+Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in our lives. Hope you too, to enjoy it as my deepest wishes.
+
+Rephrased Text 1:
+Today is our Chinese dragon boat festival, to celebrate it with all safe and great in our lives. Hope you too, enjoy it as my deepest wishes.
+
+Original Text 2:
+During our final discuss, I told him about the new submission — the one we were waiting since last autumn.
+
+Rephrased Text 2:
+During our final discuss, I told him about the new submission — the one we were waiting since last autumn.

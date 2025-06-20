@@ -1,0 +1,13 @@
+Παραδοτέο 2: Υπολογισμός Ομοιότητας με Sentence Transformers
+==========================================================
+
+Original: Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in our lives. Hope you too, to enjoy it as my deepest wishes.
+
+Parrot: Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in our lives.
+Similarity Score: 0.9593
+
+Vamsi: Today is our dragon boat festival in our Chinese culture to celebrate it with all safe and great in our lives.
+Similarity Score: 0.9550
+
+Ramsri: Today is our Chinese dragon boat festival, to celebrate it with all safe and great in our lives. Hope you too, enjoy it as my deepest wishes.
+Similarity Score: 0.9907
